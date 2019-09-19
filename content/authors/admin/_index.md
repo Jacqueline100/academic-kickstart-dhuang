@@ -67,6 +67,6 @@ user_groups:
 - Visitors
 ---
 
-Danyi Huang is a graduate student at the University of British Columbia. Her research interests include computational linguistics, cloud computing and programmable matter. She likes playing the violin and the viola.
+Danyi Huang is a graduate student at the University of British Columbia. Her research interests include computational linguistics, cloud computing and programmable matter. She likes playing the violin and the viola. She enjoys delving into the algorithm and data science.
 
 C'est la vie.
